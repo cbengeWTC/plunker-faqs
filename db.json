@@ -6,18 +6,18 @@
   "faqs": [
     {
       "id": 1,
-      "question": "What is Salmon about?",
+      "question": "What is Wunderman Thompson Commerce about?",
       "answer": "Building great sites for our amazing clients. Simple."
     },
     {
       "id": 3,
-      "question": "What is the location of Salmon Watford?",
-      "answer": "Just 2 minutes walk from Watford Junction Train Station"
+      "question": "What are Wunderman Thompson Commerce office locations?",
+      "answer": "Watford and Moorgate."
     },
     {
       "id": 5,
       "question": "Is this the last question?",
-      "answer": "Yes. You have done well!"
+      "answer": "Depends if there is another object after this one!"
     }
   ]
 }
